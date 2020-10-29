@@ -1,1 +1,1 @@
-# Bioinforma-tion-tics
+# Bioinforma(tion)tics
